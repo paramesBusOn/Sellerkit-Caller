@@ -1,0 +1,51 @@
+{
+  "sellerkitCrm_name":"SELLERKIT-CALLER",  
+  "about": "About",
+  "configuration_name": "Configuration",
+  "dashboard_name": "Dashboard",
+  "sellerkitCaller_appname":"Seller Kit Caller\n Dashboard",
+  "login_with_sellerkit":"Login with Seller kit",
+  "iaccept":"I accept the ",
+  "termsandCondition":"Terms and Conditions",
+  "authorizationSucessfull":"Authorization Successful",
+  "authorizationFailure": "Authorization Failure \n try again later..",
+  "loadingInialData":"Loading Initial Data Please wait..!!",
+  "locationAlert":"Location is must for login..!!\nGo to the App Settings Change Location Status",
+  "locationAlert_permissoinAlertbox":"Location Services is mandatory to verify that device is within the Location designated by your Organisation.",
+  "yourwhitelistedZone":"You are out of Whitelisted zone..!!!",
+  "checkInternetConnectivity":"Check your internet connectivity..!!",
+  "apiversion":"API Version",
+  "appversion":"App Version",
+  "clickHeretoGo":"Click here to go ",
+  
+
+  
+  "configure_name":"Configure",
+  
+  "logout":"Log Out",
+  "login_name":"Login",
+
+  "yes_name" : "Yes",
+  "no_name" : "No",
+  "done_name":"Done",
+  "skip_name":"Skip",
+
+  "password":"Password",
+  "username":"Username",
+  "required":"Required*",
+
+
+  "close_btn":"Close",
+  "save_btn":"Save",
+  "login_btn":"Login",
+  "logout_btn":"Logout",
+  "alert": "Alert",
+  "confirm": "Confirm",
+  "ok_btn": "Ok",
+  "cancel_btn": "Cancel",
+
+
+  
+  "enterCustomerId":"Enter the Customer Id",
+  "customerId_name":"Customer ID"
+}

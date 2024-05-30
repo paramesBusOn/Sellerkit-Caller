@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304218887578",
+    "project_id": "sellerkit-caller-dashboa-79a9e",
+    "storage_bucket": "sellerkit-caller-dashboa-79a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304218887578:android:f2c0915385743bf2025623",
+        "android_client_info": {
+          "package_name": "com.example.sellerkitcallerdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbOz7GIL_9_D2G8M9zQvaMFN0uLV6J4kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
